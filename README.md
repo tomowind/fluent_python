@@ -10,3 +10,4 @@ English Speakers: This is my study summary of **Fluent Python** in Korean.
 
 1. [The Python Data Model](notebooks/01-the-python-data-model.ipynb): 파이썬 데이터 모델, 파이쏘닉을 다룹니다.
 2. [An Array of Sequences](notebooks/02-an-array-of-sequences.ipynb): List Comprehension, Tuple, Slicing, Queue, Heap 을 다룹니다.
+3. [Dictionaries and Sets](notebooks/03-dictionaries-and-sets.ipynb): dict, set, fronzenset, collection.{Ordered, Counter} 등을 알아보고 성능에 관해 논의 합니다.
